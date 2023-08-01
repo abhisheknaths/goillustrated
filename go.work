@@ -1,0 +1,10 @@
+go 1.19
+
+use (
+	./driverpgms/fanin
+	./driverpgms/fanout
+	./fanin
+	./fanout
+	./sliceworking
+	./utils
+)
